@@ -8,6 +8,9 @@ layout: default
   {%-endif-%}
 </header>
 
+theme_config:
+  show_description: true
+
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
 {{ content }}
