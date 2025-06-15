@@ -4,7 +4,7 @@ email: deleuluze@gmail.com # email of site's author
 url: deleuluze.com # root address of the site
 baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  i like writing and zines and critical theory and this is an attempt at all of these in a deluezian assemblage sort of way
+  i like writing and zines and critical theory and this is an attempt at all of these in a deleuzian assemblage sort of way
 
 permalink: /:slug.html
 
