@@ -3,14 +3,4 @@
 
 @import "no-style-please";
 
-.posts {
-list-style: none;
-padding-left: 0;
-}
 
-.posts li {
-display: flex;
-justify-content: space-between;
-border-bottom: 1px dashed #ccc; 
-padding: 0.5rem 0;
-}
