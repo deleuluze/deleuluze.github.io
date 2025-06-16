@@ -1,6 +1,6 @@
 ---
 layout: post
-title: we do this to us; the violent liberal response to homelessness in Minneapolis
+title: we do this to us; the violent liberal response to homelessness in minneapolis
 slug: minneapolis-homelessness
 ---
 
