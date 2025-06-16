@@ -11,3 +11,5 @@ I’ve named the blog “deleuluze” after Gilles Deleuze. The delulu part can 
 One thing I’ve struggled with throughout the years is a desire to be/feel heard, but filtered through the ideology of neoliberal capitalism, that means that I have focused a lot of time on getting published in various forms of media and hyperfixating on how many views they get. This has resulted in only a small amount of published works, with many ideas left unwritten.
 
 I think part of this blog is the hope (however illusory) that I will be able to write more of my ideas down and develop them further. I hope that whoever reads this (or my zines) will recognize that these are my thoughts; they are oftentimes contradictory, sometimes problematic, and occasionally, I hope, interesting. Enjoy.
+
+Contact me @ deleuluze (at) proton.me or insta @ deleuluze
