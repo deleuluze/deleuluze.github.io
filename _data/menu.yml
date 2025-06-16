@@ -3,5 +3,6 @@
 
 entries:
   - title: writings, ramblings, zines
-    post_list:
-      limit: 5
+
+post_list:
+  limit: 5
