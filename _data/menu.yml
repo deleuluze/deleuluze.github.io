@@ -2,6 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-    -title: writings, ramblings, zines
+    
+
+
+  - title: writings, ramblings, zines
     post_list:
       limit: 5
