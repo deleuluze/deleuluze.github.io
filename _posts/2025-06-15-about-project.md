@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-16  what this blog is
+title: 2025-06-15  what this blog is
 slug: about
 ---
 
