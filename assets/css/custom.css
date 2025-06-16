@@ -1,9 +1,9 @@
-.posts {
+.post-list {
   list-style: none;
   padding-left: 0;
 }
 
-.posts li {
+.post-list li {
   display: flex;
   justify-content: space-between;
   border-bottom: 1px dashed #ccc;
