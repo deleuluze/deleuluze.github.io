@@ -1,6 +1,6 @@
 ---
 layout: post
-title: what this blog is
+title: what this is
 slug: about
 ---
 
