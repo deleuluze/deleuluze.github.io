@@ -6,7 +6,7 @@ slug: minneapolis-homelessness
 
 These thoughts are in response to an interview that Brian O’Hara, the chief of police in Minneapolis, had on MPR. In this interview, he said “we are relying on neighbors in almost every case” in stopping encampments from forming (MPR, 04/02/2025). 
 
-Minneapolis has shifted its homelessness “strategy” from violently destroying encampments to preventing them from being formed in the first place. This works, in practice, through the use of increased police presence that ensures that unhoused people are not in one spot for too long. Unhoused people who congregate in small numbers are routined harassed and surveilled by this increased police presence. 
+Minneapolis has shifted its homelessness “strategy” from violently destroying encampments to preventing them from being formed in the first place. This works, in practice, through the use of increased police presence that ensures that unhoused people are not in one spot for too long. Unhoused people who congregate in small numbers are routinely harassed and surveilled by this increased police presence. 
 
 Let’s be clear: the mayor of Minneapolis, Jacob Frey (a democrat) and Minneapolis Chief of Police Brian O’Hara’s new response is an insidious form of violence. Homelessness may be less visible to the general population, but this hidenness obscures the very real violence of this city-wide response. 
 
